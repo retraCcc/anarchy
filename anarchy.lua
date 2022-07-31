@@ -46,7 +46,7 @@ getgenv().Aiming = {
     Selected = nil,
     SelectedPart = nil,
 
-    TargetPart = {"Head", "Torso", "Left Arm", "Right Arm", "Left Leg", "Right Leg"},
+    TargetPart = {"Head", "Torso"},
 }
 
 local Aiming = getgenv().Aiming
